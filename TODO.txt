@@ -1,9 +1,3 @@
 Git lernen
 Das Zusammenspiel mit Gitlab oder Github lernen
-<<<<<<< HEAD
-Eine Zeile dazu
-Hier kommt der Müll, den ich wieder los werden möchte
-Zeile nach dem Müll
-=======
-Eine Zeile dazu
->>>>>>> parent of f31324a... Added "Müll" Zeile
+
